@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581912961073",
+    "project_id": "macromaster-6373f",
+    "storage_bucket": "macromaster-6373f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581912961073:android:9cc462ca0a09682f0fb510",
+        "android_client_info": {
+          "package_name": "com.example.macromaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC40J3GwujeWLy6CGND75Ik-qrK6qgUtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581912961073:android:bcb0b71b95dc61930fb510",
+        "android_client_info": {
+          "package_name": "com.example.macrotrackr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC40J3GwujeWLy6CGND75Ik-qrK6qgUtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

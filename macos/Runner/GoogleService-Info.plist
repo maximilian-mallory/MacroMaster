@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAVfq77Rqhu-CUUhd4SjMx3uhq41Xt3-x8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>581912961073</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.macrotrackr.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>macromaster-6373f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>macromaster-6373f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:581912961073:ios:28c46348fae151a80fb510</string>
+</dict>
+</plist>
